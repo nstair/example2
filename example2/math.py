@@ -14,7 +14,7 @@ def one(n = 10):
 
     return sum
 
-def pi(npts = 10000):
+def pi(npts = 1000):
 
     bin = 0
 
