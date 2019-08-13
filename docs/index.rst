@@ -12,6 +12,7 @@ Welcome to example2's documentation!
 
    getting_started
    api
+   math
 
 
 
