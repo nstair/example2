@@ -5,6 +5,8 @@ A example project with os x, linux, and windows builds
 
 # Add imports here
 from .example2 import *
+from .math import *
+
 
 # Handle versioneer
 from ._version import get_versions
